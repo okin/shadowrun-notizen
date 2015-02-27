@@ -2,4 +2,4 @@
 
 * Es wird offen gewürfelt
 * Unklare Würfel / Türme werden nochmal geworfen
-* Bei Abwesenheit der Spieler wird pausiert
+* Bei Abwesenheit der Spieler (vom Tisch) wird pausiert
