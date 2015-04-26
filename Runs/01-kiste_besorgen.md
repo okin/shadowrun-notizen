@@ -1,5 +1,6 @@
-Run-Location: Frankfurt 
+Run-Location: Frankfurt
 Ziel: Objekt besorgen
+Chars: Biene, Schu, Belle
 
 * Treffpunkt Presswerk (heißer Novaclub in Frankfurt)
 * Erstes Zusammentreffen Bell, Biene und Schu
