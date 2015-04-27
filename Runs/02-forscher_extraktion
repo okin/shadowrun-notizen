@@ -51,7 +51,7 @@
 * Team nimmt außerdem Rechner mit
 * Wächter aus der Küche wird anschließend eliminiert, als er vor das Haus läuft
   * Hat sich anfangs wegen Rauch nicht raus getraut
-* Team fährt wie zuvor zurück - Tom und Biene auf Motorrad, Biene mit Metroplexbahn
+* Team fährt wie zuvor zurück - Tom und Biene auf Motorrad, Schu mit Metroplexbahn
 
 ## Übergabe an Frau Müller
 
