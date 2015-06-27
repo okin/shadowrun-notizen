@@ -33,7 +33,7 @@ Die Matrixattribute sind *ASDF*:
 
 * *A*ngriff
 * *S*chleichen
-* *D*Datenverarbeitung
+* *D*atenverarbeitung
 * *F*irewall
 
 ## Deck-Configuration (S.225)
