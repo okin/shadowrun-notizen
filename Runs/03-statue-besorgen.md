@@ -6,6 +6,7 @@ Chars: Biene, Schu, Tom
 
 * Job durch Heinz bekommen
 * Transporter für Job gestellt, steht draußen
+
 * Biene und Schu holen Bienes Drohnen
 * Treffen mit Tom nachmittags auf dem Parkplatz des Opelzoo
 * Kundschaften zu Fuß Umgebung des Hauses aus
@@ -31,9 +32,12 @@ Chars: Biene, Schu, Tom
 * Schu und Tom dringen durch die von Schu geknackte Haustür ins Haus ein
 * Motorengeräusche auf der Straße, nähern sich
 * Finden Statue
-  * Tom entdeckt Sensor
+  * 30x30x60 (BxTxH) großer, dunkler Stein
+  * Durchzogen von Löchern (künstlicher Ursprung)
+  * ~50kg schwer
+* Tom entdeckt Sensor
   * Sensor wird von Biene überladen und dadurch unschädlich gemacht
-  * Tragen zu zweit Statue
+* Tragen zu zweit Statue
 * Trio fährt mit Statue weg, kontaktiert Heinz für Zielort
   * Flughafen, Lieferschein wird auf PDAs gemailt
   * Übergabe reibungslos bei einzeln stehender Gulfstream
