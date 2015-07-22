@@ -75,6 +75,68 @@ S. 158
 
 * Panzerung: Panzerungswert wird zum Schadenswiderstandsmonitor hinzugefügt, S.171
 
+## Kampfrunde
+
+* 1 Kampfrunde = 3 Sekunden
+
+### 1. Initiative
+
+* Höchster Wert fängt zuerst an
+* Gleichstand: Vergleich von ERIM (Edge, Reaktion, Intuition, Münzwurf)
+
+### 2. Handlungsphase
+
+Werden nach vorher ermittelter Reihenfolge durchgeführt
+
+* müssen vorher angesagt werden
+* zwei Einfache Handlungen oder eine Komplexe Handlung
+* eine Freie Handlung möglich
+
+### 3. Initiative reduzieren
+
+* Nach jedem Durchgang -10, bis < 10
+* Alle unter 10: neue Kampfrunde
+
+## Kampfsequenz
+
+### Ansage
+
+* Angreifer seinen Angriff
+* Verteidiger seine Verteidigung
+
+### Angriff
+
+* Angreifer: Kampffertigkeit + Attribut +- Modifikatoren [Limit]
+* Modifikatoren: S. 175
+
+### Verteidigung
+
+* Verteidiger: Reaktion + Intuition +- Modifikatoren
+
+#### 1) Vergleichsprobe
+
+  * Angreifer mehr Erfolge? Treffer!
+  * Gleichstand? Streifschuss - kein Schaden, aber Kontaktwirkung (bspw. Gift, Strom etc.)
+  * Verteidiger mehr Erfolge? Daneben.
+  * **Nettoerfolge** merken: Erfolge Angreifer die der Angreifer mehr hat
+
+#### 2) Schaden
+
+* Modifizierter Schadenscode berechnen: Nettoerfolge + Schadenscode
+* Modifzierter Panzerungswert: Panzerung - Durchschlagskraft
+
+* Mod. Schadenscode >= mod. Panzerungswert: körperlicher Schaden, ansonsten geistig
+
+* Verteidiger: Konstitution + mod. Panzerungswert W6 würfeln
+  * Jeder Erfolg = -1 mod. Schadenscode
+  * Dadurch mod. Schadenscode < 0? Panzerung schluckt Angriff
+
+#### 3) Wirkung
+
+* Verbleibenden Schaden auf Zustandsmonitor des Ziels eintragen
+* Pro 3 Kästchen -1 W6
+* Hier auch Nebenwirkung Schadensarten bestimmen
+
 # Ausrüstung
 
 S. 418 ff
