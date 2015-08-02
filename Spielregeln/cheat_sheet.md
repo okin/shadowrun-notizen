@@ -159,6 +159,40 @@ S. 418 ff
 
 S. 421
 
+## Drogen & Gifte
+
+* Toxine S. 410
+* Drogen (Aufputschmittel) S. 412
+
+# Leben in den Schatten
+
+## Schlaflosigkeit
+
+* Leichte bei Schu
+
+## Abhängigkeit
+
+* S. 416
+
+* Abhängigkeitsprobe (psychisch): Willenskraft + Logik
+
+### BTL
+
+* S. 414
+
+* psychische Abhängigkeit
+* benötigen Dreamdeck oder SimSinn-Slot
+* oder als Direct Input Chip für Talent-/Datenbuchse.
+
+* Wirkdauer, 10x1W6 Minuten
+
+#### Chips
+
+* Dreamchips: SimSinn-Aufzeichnungen mit BTL-Output
+* Moodchips: Konzentration auf Emotionen und Empfindungen. Nach Ende der Wirkdauer hat Konsument meist 1-2 Stunden das gegenteilige Gefühl.
+* Personafixe (P-Fix): Wahrnehmung / Verhaltensmuster anderer Personen.
+* Tripchips: ähnliche Moodchip, meist Flut interessanter / ungewöhnlicher Empfindungen.
+
 # Spielleiter
 
 ## Barrieren
