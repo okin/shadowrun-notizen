@@ -37,7 +37,7 @@ S. 50, Schwellwerte / Intervalle auf S. 51
 
 ## Häufige Proben
 
-* **Wahrnehmungsprobe**: Wahrnehmung + Intuition (Geistig)
+* **Wahrnehmungsprobe**: Wahrnehmung + Intuition (Geistig). Schwellwerte S. 137
 
 ### Schlösser knacken
 
