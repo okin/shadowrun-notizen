@@ -199,6 +199,13 @@ S. 421
 * Personafixe (P-Fix): Wahrnehmung / Verhaltensmuster anderer Personen.
 * Tripchips: ähnliche Moodchip, meist Flut interessanter / ungewöhnlicher Empfindungen.
 
+# Fertigkeiten
+
+* Action kann Wissen ersetzen, mit Malus auf Würfelpool
+  * Anders herum nicht
+
+* Fertigkeitsstufen S. 131
+
 # Spielleiter
 
 ## Barrieren
