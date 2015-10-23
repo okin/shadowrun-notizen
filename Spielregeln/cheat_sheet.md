@@ -31,6 +31,12 @@
 
 S. 50, Schwellwerte / Intervalle auf S. 51
 
+## Improvisation
+
+* Nur bei Fertigkeiten, die es erlauben
+* Würfelpool: Attribut - 1
+* Edge möglich
+
 ## Zweiter Versuch
 
 -2 W6 auf erneute Probe.
